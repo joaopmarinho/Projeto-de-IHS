@@ -1,5 +1,5 @@
 # Projeto-de-IHS
-Mapeamento de um jogo no fpga
+Mapeamento de Morteiro dos Pracinhas em python no fpga
 
 Para rodar o código é necessário utilizar o comando python3 jogoMain.py /dev/mydev para referenciar o driver.
 
